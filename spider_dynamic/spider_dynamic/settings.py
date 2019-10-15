@@ -14,7 +14,7 @@ BOT_NAME = 'spider_dynamic'
 SPIDER_MODULES = ['spider_dynamic.spiders']
 NEWSPIDER_MODULE = 'spider_dynamic.spiders'
 
-
+JSON_PATH = 'item.json'
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'spider_dynamic (+http://www.yourdomain.com)'
 
